@@ -1,6 +1,6 @@
-#This is the major project implementation code\n
+This is the major project implementation code
 
-Made By -\n
-Anshul Keote\n   
-Anurag Dinodia\n
-Aditya Jain\n
+Made By -
+Anshul Keote   
+Anurag Dinodia
+Aditya Jain

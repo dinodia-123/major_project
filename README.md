@@ -2,6 +2,6 @@
 
 ## Made By -
 
-Anshul Keote 
-Anurag Dinodia
-Aditya Jain
+### Anshul Keote 
+### Anurag Dinodia
+### Aditya Jain
